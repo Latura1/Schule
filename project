@@ -15,3 +15,43 @@ Beantworte die folgenden Fragen mit Hilfe des Internets und präsentiere deine E
 8.	Welche sind die 10 am häufigsten verwendeten (und unsichersten) Passwörter weltweit? Warum gelten sie als unsicher?
 9.	Warum ist es gefährlich, Passwörter einfach im Webbrowser zu speichern? Welche Risiken entstehen dadurch?
 10.	Wie speichern Unternehmen oder Schulen Passwörter ihrer Nutzer sicher? Erkläre die Begriffe „Hashing“ und „Salting“.
+Stimmt – die Formulierung bei Nummer 6 kann klarer und strukturierter sein. Hier ist eine verbesserte Version:
+
+
+---
+
+6. Was ist ein Passwort-Manager?
+
+Ein Passwort-Manager ist ein Programm, das alle Passwörter sicher verschlüsselt speichert. So muss man sich nur noch ein einziges Master-Passwort merken.
+
+Empfohlene Programme:
+
+Bitwarden: Kostenlos, Open Source, speichert Daten in der Cloud
+
+KeePass: Kostenlos, Open Source, speichert Daten lokal auf dem Gerät
+
+
+Vorteile:
+
+Starke und einzigartige Passwörter für jede Website
+
+Spart Zeit, da Passwörter automatisch eingefügt werden können
+
+Man muss sich nur ein Master-Passwort merken
+
+
+Nachteile:
+
+Wenn das Master-Passwort vergessen wird, kann man nicht mehr auf seine Daten zugreifen
+
+Bei Cloud-basierten Managern besteht ein gewisses Risiko bei Datenlecks (z. B. durch Hacks – obwohl sie meist stark verschlüsselt sind)
+
+
+Quelle:
+bleib-virenfrei.de – Was ist ein Passwort-Manager?
+
+
+---
+
+Wenn du möchtest, kann ich dir alle 10 Punkte auch als schön gestaltete Präsentation oder PDF zusammenstellen. Sag einfach Bescheid!
+
