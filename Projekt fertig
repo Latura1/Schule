@@ -1,215 +1,48 @@
 
-Recherche-Auftrag: Sichere Passwörter
-Klasse: 10
-Fach: Informatik / Medienkompetenz
 
-Arbeitsauftrag:
-Beantworte die folgenden Fragen mit Hilfe des Internets und präsentiere deine Ergebnisse in einem kurzen Text oder einer Präsentation. Notiere dabei auch die Quellen, die du benutzt hast!
 
-1.	Warum benutzen so viele Menschen einfache Passwörter wie „123456“? Welche psychologischen oder praktischen Gründe könnten dahinter stecken?
-2.	Wie lange dauert es ungefähr, ein Passwort mit 8 Zeichen zu knacken – im Vergleich zu einem mit 15 Zeichen? Benutze z. B. die Website: https://wiesicheristmeinpasswort.de
-3.	Was ist ein „Brute-Force-Angriff“? Wie funktioniert so ein Angriff und mit welchen Programmen oder Methoden arbeiten Hacker?
-4.	Was passiert mit gestohlenen Passwörtern im Darknet? Recherchiere, wie Datenleaks entstehen und was mit den Daten passiert.
-5.	Was bedeutet „Zwei-Faktor-Authentifizierung (2FA)“? Warum ist es sinnvoll, neben einem Passwort noch einen zweiten Faktor zu nutzen?
-6.	Was ist ein Passwort-Manager? Nenne zwei Programme, die empfohlen werden, und erkläre deren Vor- und Nachteile.
-7.	Welche gesetzlichen Vorschriften gibt es in Deutschland oder Europa zum Schutz von Passwörtern und persönlichen Daten? (z. B. DSGVO / GDPR)
-8.	Welche sind die 10 am häufigsten verwendeten (und unsichersten) Passwörter weltweit? Warum gelten sie als unsicher?
-9.	Warum ist es gefährlich, Passwörter einfach im Webbrowser zu speichern? Welche Risiken entstehen dadurch?
-10.	Wie speichern Unternehmen oder Schulen Passwörter ihrer Nutzer sicher? Erkläre die Begriffe „Hashing“ und „Salting“.
-Recherche-Auftrag: Sichere Passwörter
-Klasse 10 – Informatik / Medienkompetenz
 
-1. Warum benutzen viele Menschen einfache Passwörter wie „123456“?
-Viele Menschen nutzen einfache Passwörter aus Bequemlichkeit oder weil sie sich komplexe Passwörter schlecht merken können. Psychologisch gesehen bevorzugen Menschen einfache Lösungen, um kognitive Belastung zu vermeiden. Zudem unterschätzen viele das Risiko eines Hackerangriffs.
+1. Umweltfreundlich unterwegs
 
-Quellen:
+Elektroautos stoßen beim Fahren keine schädlichen Abgase wie CO₂ oder Stickoxide aus. Dadurch tragen sie erheblich zur Reduzierung der Luftverschmutzung und des Treibhauseffekts bei. Besonders in Städten verbessern E-Autos die Luftqualität – das ist gut für Mensch, Tier und Klima.
 
-Bundesamt für Sicherheit in der Informationstechnik (BSI)
 
-Studie des Hasso-Plattner-Instituts (HPI)
+---
 
-2. Dauer zum Knacken eines Passworts (8 vs. 15 Zeichen)
-Laut „Wie sicher ist mein Passwort?“:
+2. Geringe Betriebskosten
 
-8 Zeichen (nur Kleinbuchstaben): Sekunden bis Minuten
+Ein großer Vorteil von Elektroautos sind die niedrigen Kosten im Alltag. Strom ist meist günstiger als Benzin oder Diesel. Außerdem benötigen E-Autos weniger Wartung – kein Ölwechsel, kein Auspuff, keine Kupplung. Das spart auf Dauer viel Geld.
 
-15 Zeichen (Groß-/Kleinbuchstaben, Zahlen, Sonderzeichen): Millionen von Jahren
 
-Fazit: Je länger und komplexer, desto sicherer!
+---
 
-3. Was ist ein „Brute-Force-Angriff“?
-Ein Brute-Force-Angriff probiert systematisch alle möglichen Passwort-Kombinationen aus. Hacker nutzen Tools wie John the Ripper oder Hashcat, um Passwörter zu entschlüsseln.
+3. Leise und komfortabel
 
-Quellen:
+E-Autos fahren fast geräuschlos – kein Motorenlärm, kein Brummen. Das sorgt für mehr Fahrkomfort und weniger Lärmbelastung für Anwohner und Umwelt. Besonders in Wohngebieten ist das ein großer Pluspunkt.
 
-Kaspersky – Brute-Force-Angriffe
 
-OWASP – Password Cracking
+---
 
-4. Gestohlene Passwörter im Darknet
-Bei Datenleaks (z. B. durch Hacks oder Phishing) werden Passwörter im Darknet verkauft. Cyberkriminelle nutzen sie für Identitätsdiebstahl oder weitere Angriffe.
+4. Starke Beschleunigung – sofort verfügbar
 
-Quellen:
+Elektromotoren liefern sofort ihr volles Drehmoment. Das bedeutet: Die Beschleunigung ist spontan und kraftvoll, auch bei kleinen E-Autos. Damit bieten sie ein ganz neues Fahrgefühl – dynamisch und direkt.
 
-BSI – Darknet
 
-Have I Been Pwned?
+---
 
-5. Zwei-Faktor-Authentifizierung (2FA)
-2FA verlangt neben dem Passwort einen zweiten Faktor (z. B. SMS-Code, Authenticator-App). Das erschwert Angreifern den Zugriff.
+5. Herausforderungen der Ladeinfrastruktur
 
-Quellen:
+Trotz vieler Vorteile gibt es auch Herausforderungen. In einigen Regionen gibt es noch zu wenige öffentliche Ladestationen. Auch das Laden dauert meist länger als das Tanken. Der Ausbau der Ladeinfrastruktur ist deshalb entscheidend für die Zukunft der E-Mobilität.
 
-Google Authenticator
 
-BSI – 2FA
+---
 
-6. Passwort-Manager
-Ein Passwort-Manager speichert und verwaltet sichere Passwörter.
-Beispiele:
+6. Batterieherstellung & Recycling
 
-Bitwarden (kostenlos, Open-Source)
+Die Herstellung von Batterien benötigt wertvolle Rohstoffe wie Lithium und Kobalt, deren Abbau oft problematisch ist. Auch das Recycling alter Batterien steckt noch in den Kinderschuhen. Forschung und Technik arbeiten aber intensiv an nachhaltigeren Lösungen.
 
-KeePass (lokal gespeichert, aber umständliche Synchronisation)
 
-Quellen:
+---
 
-Stiftung Warentest – Passwort-Manager
+Möchtest du daraus ein optisch ansprechendes Plakat-Design mit Strukturvorschlag?
 
-7. Gesetzliche Vorschriften (DSGVO / GDPR)
-Die DSGVO (EU) verpflichtet Unternehmen zum Schutz personenbezogener Daten, u. a. durch sichere Passwörter und Verschlüsselung.
-
-Quellen:
-
-EU-DSGVO
-
-BfDI – Datenschutz
-
-8. Top 10 unsicherste Passwörter
-Laut NordPass:
-
-123456
-
-password
-
-123456789
-...
-Grund: Zu einfach, schnell zu erraten.
-
-9. Risiko: Passwörter im Browser speichern
-Browser-Passwörter können durch Malware oder Phishing gestohlen werden. Ein Passwort-Manager ist sicherer.
-
-Quellen:
-
-BSI – Browser-Speicherung
-
-10. Wie Unternehmen Passwörter speichern
-Hashing: Passwörter werden als irreversibler Hash gespeichert.
-
-Salting: Ein zufälliger Wert wird vor dem Hashing hinzugefügt, um Rainbow-Table-Angriffe zu erschweren.
-
-Quellen:
-
-OWASP – Password Storage
-
-Fazit:
-Sichere Passwörter sind essenziell für den Schutz persönlicher Daten. Lange, komplexe Passwörter, 2FA und Passwort-Manager erhöhen die Sicherheit deutlich.
-
-Präsentations-Tipp: Nutze Beispiele und Grafiken, um die Gefahren und Lösungen anschaulich darzustellen! 🚀
-
-This response is AI-generated, for reference only.
-Kannst dum mir die Antworten u ter die Fragen schreiben
-Arbeitsauftrag: Sichere Passwörter – Antworten unter den Fragen
-1. Warum benutzen so viele Menschen einfache Passwörter wie „123456“?
-Antwort:
-Viele Menschen verwenden einfache Passwörter aus Bequemlichkeit oder weil sie sich komplexe Kombinationen schlecht merken können. Psychologisch gesehen bevorzugen Menschen einfache Lösungen, um sich nicht zu überfordern. Außerdem unterschätzen viele das Risiko, gehackt zu werden.
-
-Quelle:
-
-BSI – Sichere Passwörter
-
-2. Wie lange dauert es, ein Passwort mit 8 vs. 15 Zeichen zu knacken?
-Antwort:
-Laut „Wie sicher ist mein Passwort?“:
-
-8 Zeichen (nur Kleinbuchstaben): Sekunden bis Minuten
-
-15 Zeichen (Groß-/Kleinbuchstaben + Zahlen + Sonderzeichen): Millionen von Jahren
-
-Fazit: Lange und komplexe Passwörter sind deutlich sicherer!
-
-3. Was ist ein „Brute-Force-Angriff“?
-Antwort:
-Ein Brute-Force-Angriff probiert automatisch alle möglichen Passwort-Kombinationen aus, bis das richtige gefunden ist. Hacker nutzen Tools wie John the Ripper oder Hashcat, um Passwörter zu knacken.
-
-Quelle:
-
-Kaspersky – Brute-Force
-
-4. Was passiert mit gestohlenen Passwörtern im Darknet?
-Antwort:
-Bei Datenleaks (z. B. durch Hacks) werden Passwörter im Darknet verkauft. Cyberkriminelle nutzen sie für Identitätsdiebstahl, Betrug oder weitere Angriffe.
-
-Quelle:
-
-Have I Been Pwned?
-
-5. Was ist „Zwei-Faktor-Authentifizierung (2FA)“?
-Antwort:
-2FA verlangt neben dem Passwort einen zweiten Faktor (z. B. SMS-Code oder Authenticator-App). Das macht es Hackern viel schwerer, Konten zu übernehmen.
-
-Quelle:
-
-BSI – 2FA
-
-6. Was ist ein Passwort-Manager? Nenne zwei Beispiele.
-Antwort:
-Ein Passwort-Manager speichert und verwaltet sichere Passwörter.
-Beispiele:
-
-Bitwarden (kostenlos, Open-Source)
-
-KeePass (lokal gespeichert, aber umständlich zu synchronisieren)
-
-Quelle:
-
-Stiftung Warentest – Passwort-Manager
-
-7. Welche gesetzlichen Vorschriften gibt es zum Passwort-Schutz?
-Antwort:
-Die DSGVO (EU) verpflichtet Unternehmen, Passwörter und persönliche Daten sicher zu speichern (z. B. durch Verschlüsselung).
-
-Quelle:
-
-EU-DSGVO
-
-8. Top 10 unsicherste Passwörter weltweit
-Antwort:
-Laut NordPass:
-
-123456
-
-password
-
-123456789
-...
-Grund: Zu einfach und schnell zu erraten.
-
-9. Warum ist es gefährlich, Passwörter im Browser zu speichern?
-Antwort:
-Browser-Passwörter können durch Malware oder Phishing gestohlen werden. Ein Passwort-Manager ist sicherer.
-
-Quelle:
-
-BSI – Browser-Speicherung
-
-10. Wie speichern Unternehmen Passwörter sicher?
-Antwort:
-
-Hashing: Passwörter werden als unlesbarer Code gespeichert.
-
-Salting: Ein zufälliger Wert wird hinzugefügt, um Rainbow-Table-Angriffe zu verhindern.
-
-Quelle:
-
-OWASP – Password Storage
